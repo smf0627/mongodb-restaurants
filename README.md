@@ -35,4 +35,7 @@ Observe what type of infomration is returned from an insert statement?  Fill in 
 Open up the query.js file and fill in the query for the findByName(name).
 
 
+## References
 
+* [MongoDB Node API](http://mongodb.github.io/node-mongodb-native/2.2/api/Collection.html#insertOne)
+* [MongoDB API](https://docs.mongodb.com/getting-started/shell/insert/)
